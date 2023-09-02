@@ -17,13 +17,6 @@ This app is an online payment service for transferring bucks between friends. It
 - A Sending Transfer, given that it’s not zero or negative amount, the amount is not more that the current balance, and the sender and receiver are not the same, is automatically approved
 5. __Display Transfers History:__ An authenticated user of the system will be able to see transfers they have sent or received.
 6. __Display Details of a Specific Transfer:__ An authenticated user of the system will be able to retrieve the details of any transfer based upon the transfer ID.
-7. __Request Money:__ An authenticated user of the system will be able to request a transfer of a specific amount of Bucks from another registered user.
-- The authenticated user will be able to choose from a list of users to request Bucks from.
-- The authenticated user will not be allowed to request money from themselves.
-- The authenticated user can’t request a zero or negative amount.
-- A Request Transfer has an initial status of Pending.
-- Add account balance changes until the request is approved.
-- The transfer request should appear in both users’ list of transfers.
 
 ### Prerequisite:
 PostgreSQL
