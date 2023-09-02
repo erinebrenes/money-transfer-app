@@ -1,0 +1,1 @@
+2023-09-01T22:45:29.505592 500 : [{"timestamp":"2023-09-02T05:45:29.488+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (542 bytes)]

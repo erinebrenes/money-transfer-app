@@ -1,0 +1,2 @@
+2023-06-15T17:16:45.8169467 404 : [{"timestamp":"2023-06-15T22:16:45.788+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/1002/balance"}]
+2023-06-15T15:26:15.504348 404 : [{"timestamp":"2023-06-15T22:26:15.492+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/1005/balance"}]
